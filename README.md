@@ -5,7 +5,7 @@
 >Product Management
     <embed src="https://github.com/nemishzalavadiya/Accomplishments/blob/master/Product_management.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: 
-          <a href="https://github.com/nemishzalavadiya/Accomplishments/blob/master/Product_management.pdf">Download PDF</a>.        
+          <a href="https://github.com/nemishzalavadiya/Accomplishments/blob/master/Product-Management.pdf">Download PDF</a>.        
         </p>
     </embed>
 </object>
